@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'Không bt cậu có thích tớ không ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Nếu cậu thích tớ ở điểm gì cậu cứ nhắn nhá <3',
-    btnReply: 'Gửi cho bạn <3',
+    question: 'Nếu cậu thích tớ ở điểm gì cậu cứ nhắn nhá ❤',
+    btnReply: 'Gửi cho bạn ❤',
     reply: 'Tại cậu hơi khờ và đôi lúc trong tớ thấy cậu đẹp trai <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 8h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun ❤',
     messLink: 'https://www.facebook.com/profile.php?id=100089587011609'
 }
